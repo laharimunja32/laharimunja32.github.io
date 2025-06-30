@@ -1,1 +1,29 @@
-# laharimunja32.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Lahari's Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hello, I'm Lahari 👋</h1>
+    <p>BTech IT Student | Python | Java | DBMS</p>
+  </header>
+
+  <section>
+    <h2>Projects</h2>
+    <ul>
+      <li>🔐 AI Fraud Card Detection</li>
+      <li>🚗 Smart Parking System</li>
+      <li>🕳️ Pothole Detection System</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: lahari123@email.com</p>
+  </section>
+</body>
+</html>
